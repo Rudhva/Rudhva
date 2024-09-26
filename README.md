@@ -10,8 +10,9 @@ Teaching Assistant @ UIC Math & Science Learning Center (June 2024 - Present): I
 Cybersecurity Intern @ TeamLogic IT (March 2022 - June 2024): I gained hands-on experience in resolving hardware/software issues and strengthening cybersecurity practices. I also curated weekly newsletters on AI and cybersecurity trends, boosting client engagement by 60%.
 
 🚀 Projects & Leadership:
-SkillsUSA Drone Competition: Programmed autonomous drones to navigate obstacle courses, earning 2nd place in the Midwest region.
-Water Polo Team Captain: Led my high school varsity team to a 10-game win streak and balanced training with academics, developing strong leadership and multitasking skills.
+Autonomous Drone Programming: Developed and programmed drones for autonomous flight through complex obstacle courses, gaining expertise in drone repair and maintenance.
+SkillsUSA Competition: Competed in the SkillsUSA Drone Competition, earning 2nd place in the Midwest region by demonstrating my technical skills and problem-solving abilities.
+Water Polo Team Captain: Led my high school varsity team to a 10-game win streak, while balancing training with academic responsibilities. This experience sharpened my leadership, decision-making, and multitasking skills.
 
 📚 Skills:
 Programming: Java, JavaScript, C, C++, Python, SQL
