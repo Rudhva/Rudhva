@@ -5,8 +5,9 @@ I’m a Computer Science major at the University of Illinois at Chicago, with a 
 
 🔧 What I’m Working On:
 
-Network Engineering Intern @ UIC Technology Solutions (June 2024 - Present): I’m working alongside senior engineers, supporting the university's network infrastructure. My role involves collaborating with various tech teams (VoIP, data science) to ensure smooth operations and tackle projects that develop my skills in network administration.
-Teaching Assistant @ UIC Math & Science Learning Center (June 2024 - Present): I lead weekly classroom sessions to help students better understand physics. It’s rewarding to provide individualized support and refine my teaching strategies in collaboration with faculty.
+1) IT Intern @ MOEITS Countryside, IL (Novemeber 2025 - Present): I’m working alongside senior engineers, supporting the comapny's IT needs. My role involves collaborating with various tech specialists to ensure smooth operations and tackle any issues.
+
+2) Teaching Assistant @ UIC Math & Science Learning Center (June 2024 - Present): I lead weekly classroom sessions to help students better understand physics. It’s rewarding to provide individualized support and refine my teaching strategies in collaboration with faculty.
 
 
 💡 Previous Experience:
