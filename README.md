@@ -12,7 +12,9 @@ I’m a Computer Science major at the University of Illinois at Chicago, with a 
 
 💡 Previous Experience:
 
-Cybersecurity Intern @ TeamLogic IT (March 2022 - June 2024): I gained hands-on experience in resolving hardware/software issues and strengthening cybersecurity practices. I also curated weekly newsletters on AI and cybersecurity trends, boosting client engagement by 60%.
+1) Network Engineering Intern @ UIC Technology Solutions (June 2024 - November 2025): I’m working alongside senior engineers, supporting the university's network infrastructure. My role involves collaborating with various tech teams (VoIP, data science) to ensure smooth operations and tackle projects that develop my skills in network administration.
+
+2) Cybersecurity Intern @ TeamLogic IT (March 2022 - June 2024): I gained hands-on experience in resolving hardware/software issues and strengthening cybersecurity practices. I also curated weekly newsletters on AI and cybersecurity trends, boosting client engagement by 60%.
 
 
 🚀 Projects & Leadership:
@@ -29,4 +31,3 @@ Networking & Management Tools: Azure, Office 365 Admin, Cisco Networking Foundat
 Languages: English, Spanish, Gujarati, Hindi
 
 
-I'm currently looking to be an intern Summer of '25. Let's connect, and I can show you how I can apply my skills!
